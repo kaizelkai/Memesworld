@@ -1,0 +1,1757 @@
+.elementor-3325
+	.elementor-element.elementor-element-30f1377:not(
+		.elementor-motion-effects-element-type-background
+	),
+.elementor-3325
+	.elementor-element.elementor-element-30f1377
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background: linear-gradient(to bottom, #d99d67, #e8510b, #0b57e8);
+	background-size: 100% 100%;
+
+	-webkit-animation: AnimationName 3s ease infinite;
+	-moz-animation: AnimationName 3s ease infinite;
+	animation: AnimationName 3s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+@-moz-keyframes AnimationName {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+@keyframes AnimationName {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+.elementor-3325 .elementor-element.elementor-element-30f1377 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+}
+.elementor-3325
+	.elementor-element.elementor-element-30f1377
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325
+	.elementor-element.elementor-element-30f1377
+	> .elementor-shape-top
+	.elementor-shape-fill {
+	fill: #fdb94e;
+}
+.elementor-3325
+	.elementor-element.elementor-element-30f1377
+	> .elementor-shape-top
+	svg {
+	height: 49px;
+}
+.elementor-3325 .elementor-element.elementor-element-3631f1d {
+	--spacer-size: 40px;
+}
+.elementor-3325 .elementor-element.elementor-element-11ee13b img {
+	width: 41%;
+	border-radius: 14px 14px 14px 14px;
+}
+.elementor-3325 .elementor-element.elementor-element-2033155 img {
+	width: 41%;
+	border-radius: 20px 20px 20px 20px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-2033155
+	> .elementor-widget-container {
+	border-radius: 19px 19px 19px 19px;
+}
+.elementor-3325 .elementor-element.elementor-element-3604149 img {
+	width: 41%;
+	border-radius: 14px 14px 14px 14px;
+}
+.elementor-3325 .elementor-element.elementor-element-4169001 img {
+	width: 41%;
+	border-radius: 17px 17px 17px 17px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4169001
+	> .elementor-widget-container {
+	border-radius: 18px 18px 18px 18px;
+}
+.elementor-3325 .elementor-element.elementor-element-94b406e img {
+	width: 51%;
+	border-radius: 14px 14px 14px 14px;
+}
+.elementor-3325 .elementor-element.elementor-element-96a9750 img {
+	width: 42%;
+	border-radius: 14px 14px 14px 14px;
+}
+.elementor-3325 .elementor-element.elementor-element-23bad90 img {
+	width: 55%;
+}
+.elementor-3325
+	.elementor-element.elementor-element-23bad90
+	> .elementor-widget-container {
+	margin: 0px 0px -134px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-055fd98 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-055fd98
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Chela One", Sans-serif;
+	font-size: 61px;
+	font-weight: 200;
+}
+.elementor-3325 .elementor-element.elementor-element-5a62320 {
+	--spacer-size: 34px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-ffec31d
+	.elementor-icon-wrapper {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-ffec31d.elementor-view-stacked
+	.elementor-icon {
+	background-color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-ffec31d.elementor-view-framed
+	.elementor-icon,
+.elementor-3325
+	.elementor-element.elementor-element-ffec31d.elementor-view-default
+	.elementor-icon {
+	color: #000000;
+	border-color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-ffec31d.elementor-view-framed
+	.elementor-icon,
+.elementor-3325
+	.elementor-element.elementor-element-ffec31d.elementor-view-default
+	.elementor-icon
+	svg {
+	fill: #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-ffec31d .elementor-icon {
+	font-size: 35px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-ffec31d
+	.elementor-icon
+	svg {
+	height: 35px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-ffec31d
+	> .elementor-widget-container {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 0px 0px 0px;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 3px 3px 3px 3px;
+	border-color: #000000;
+	border-radius: 42px 42px 42px 42px;
+	box-shadow: 3px 3px 0px 0px #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-54227e3
+	.elementor-icon-wrapper {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-54227e3.elementor-view-stacked
+	.elementor-icon {
+	background-color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-54227e3.elementor-view-framed
+	.elementor-icon,
+.elementor-3325
+	.elementor-element.elementor-element-54227e3.elementor-view-default
+	.elementor-icon {
+	color: #000000;
+	border-color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-54227e3.elementor-view-framed
+	.elementor-icon,
+.elementor-3325
+	.elementor-element.elementor-element-54227e3.elementor-view-default
+	.elementor-icon
+	svg {
+	fill: #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-54227e3 .elementor-icon {
+	font-size: 35px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-54227e3
+	.elementor-icon
+	svg {
+	height: 35px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-54227e3
+	> .elementor-widget-container {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 0px 0px 0px;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 3px 3px 3px 3px;
+	border-color: #000000;
+	border-radius: 50px 50px 50px 50px;
+	box-shadow: 3px 3px 0px 0px #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-433c090 {
+	--spacer-size: 34px;
+}
+.elementor-3325 .elementor-element.elementor-element-97c1ad6 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-97c1ad6
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Caveat Brush", Sans-serif;
+	font-size: 34px;
+	font-weight: 200;
+}
+.elementor-3325 .elementor-element.elementor-element-121422f {
+	--spacer-size: 18px;
+}
+.elementor-3325 .elementor-element.elementor-element-4b10c5f .elementor-button {
+	font-family: "Caveat Brush", Sans-serif;
+	font-size: 24px;
+	font-weight: 500;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #ffffff;
+	border-radius: 12px 12px 12px 12px;
+	box-shadow: 3px 3px 0px 0px #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-71ec56b {
+	--spacer-size: 50px;
+}
+.elementor-3325 .elementor-element.elementor-element-c60f298 .elementor-button {
+	font-family: "Chelsea Market", Sans-serif;
+	font-size: 40px;
+	font-weight: 500;
+	fill: #000000;
+	color: #000000;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #ffffff;
+	border-radius: 12px 12px 12px 12px;
+	box-shadow: 4px 4px 0px 0px #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-6e1db6e:not(
+		.elementor-motion-effects-element-type-background
+	),
+.elementor-3325
+	.elementor-element.elementor-element-6e1db6e
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background: linear-gradient(to bottom, #0b57e8, #d99d67, #e8510b);
+	background-size: 100% 100%;
+
+	-webkit-animation: AnimationName 3s ease infinite;
+	-moz-animation: AnimationName 3s ease infinite;
+	animation: AnimationName 3s ease infinite;
+}
+.elementor-3325 .elementor-element.elementor-element-6e1db6e {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+}
+.elementor-3325
+	.elementor-element.elementor-element-6e1db6e
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325 .elementor-element.elementor-element-2c2cda98 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-2c2cda98
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 170px;
+	font-weight: 400;
+	-webkit-text-stroke-width: 2px;
+	stroke-width: 2px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-2c2cda98
+	> .elementor-widget-container {
+	padding: 1px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-a5e73d8 {
+	--spacer-size: 50px;
+}
+.elementor-3325 .elementor-element.elementor-element-dc32dcc img {
+	width: 100%;
+}
+.elementor-3325
+	.elementor-element.elementor-element-dc32dcc
+	> .elementor-widget-container {
+	margin: -58px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-7d7df0f {
+	--spacer-size: 50px;
+}
+.elementor-3325 .elementor-element.elementor-element-88995c5 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-88995c5
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Caveat Brush", Sans-serif;
+	font-size: 38px;
+	font-weight: 100;
+}
+.elementor-3325
+	.elementor-element.elementor-element-88995c5
+	> .elementor-widget-container {
+	padding: 0px 67px 0px 82px;
+}
+.elementor-3325 .elementor-element.elementor-element-5068d39 {
+	--spacer-size: 19px;
+}
+.elementor-3325 .elementor-element.elementor-element-8652eba .elementor-button {
+	font-family: "Chelsea Market", Sans-serif;
+	font-size: 33px;
+	font-weight: 500;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #ffffff;
+	border-radius: 9px 9px 9px 9px;
+	box-shadow: 3px 3px 0px 0px #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-fc09088 {
+	--spacer-size: 44px;
+}
+.elementor-3325 .elementor-element.elementor-element-4d99ab9 .elementor-button {
+	font-family: "Chelsea Market", Sans-serif;
+	font-size: 40px;
+	font-weight: 500;
+	fill: #ffffff;
+	color: #ffffff;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #ffffff;
+	border-radius: 12px 12px 12px 12px;
+	box-shadow: 4px 4px 0px 0px #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-1367161 {
+	--spacer-size: 38px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-12222538:not(
+		.elementor-motion-effects-element-type-background
+	),
+.elementor-3325
+	.elementor-element.elementor-element-12222538
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background-color: #fdb94e;
+}
+.elementor-3325 .elementor-element.elementor-element-12222538 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 48px 0px 60px 0px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-12222538
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325
+	.elementor-element.elementor-element-12222538
+	> .elementor-shape-top
+	.elementor-shape-fill {
+	fill: #e8520c;
+}
+.elementor-3325
+	.elementor-element.elementor-element-12222538
+	> .elementor-shape-top
+	svg {
+	height: 106px;
+}
+.elementor-3325 .elementor-element.elementor-element-547d6f4c {
+	--spacer-size: 37px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-3a612b00:not(
+		.elementor-motion-effects-element-type-background
+	)
+	> .elementor-widget-wrap,
+.elementor-3325
+	.elementor-element.elementor-element-3a612b00
+	> .elementor-widget-wrap
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background-color: #ffffff;
+}
+.elementor-3325
+	.elementor-element.elementor-element-3a612b00
+	> .elementor-element-populated {
+	border-style: solid;
+	border-width: 4px 4px 4px 4px;
+	border-color: #000000;
+	box-shadow: 3px 2px 0px 0px #000000;
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+	margin: 8px 8px 8px 8px;
+	--e-column-margin-right: 8px;
+	--e-column-margin-left: 8px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-3a612b00
+	> .elementor-element-populated,
+.elementor-3325
+	.elementor-element.elementor-element-3a612b00
+	> .elementor-element-populated
+	> .elementor-background-overlay,
+.elementor-3325
+	.elementor-element.elementor-element-3a612b00
+	> .elementor-background-slideshow {
+	border-radius: 14px 14px 14px 14px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-3a612b00
+	> .elementor-element-populated
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325 .elementor-element.elementor-element-484548bc {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-484548bc
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 40px;
+	font-weight: 300;
+}
+.elementor-3325
+	.elementor-element.elementor-element-484548bc
+	> .elementor-widget-container {
+	margin: 40px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-4f1fd7c6 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4f1fd7c6
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 33px;
+	font-weight: 100;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4df32e62:not(
+		.elementor-motion-effects-element-type-background
+	)
+	> .elementor-widget-wrap,
+.elementor-3325
+	.elementor-element.elementor-element-4df32e62
+	> .elementor-widget-wrap
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background-color: #ffffff;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4df32e62
+	> .elementor-element-populated {
+	border-style: solid;
+	border-width: 4px 4px 4px 4px;
+	border-color: #000000;
+	box-shadow: 3px 2px 0px 0px #000000;
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+	margin: 8px 8px 8px 8px;
+	--e-column-margin-right: 8px;
+	--e-column-margin-left: 8px;
+	padding: 34px 0px 034px 0px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4df32e62
+	> .elementor-element-populated,
+.elementor-3325
+	.elementor-element.elementor-element-4df32e62
+	> .elementor-element-populated
+	> .elementor-background-overlay,
+.elementor-3325
+	.elementor-element.elementor-element-4df32e62
+	> .elementor-background-slideshow {
+	border-radius: 14px 14px 14px 14px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4df32e62
+	> .elementor-element-populated
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325 .elementor-element.elementor-element-56a8f2d {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-56a8f2d
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 40px;
+	font-weight: 200;
+}
+.elementor-3325
+	.elementor-element.elementor-element-56a8f2d
+	> .elementor-widget-container {
+	margin: 14px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-7a0f2f15 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-7a0f2f15
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 33px;
+	font-weight: 100;
+}
+.elementor-3325
+	.elementor-element.elementor-element-133bb097:not(
+		.elementor-motion-effects-element-type-background
+	)
+	> .elementor-widget-wrap,
+.elementor-3325
+	.elementor-element.elementor-element-133bb097
+	> .elementor-widget-wrap
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background-color: #ffffff;
+}
+.elementor-3325
+	.elementor-element.elementor-element-133bb097
+	> .elementor-element-populated {
+	border-style: solid;
+	border-width: 4px 4px 4px 4px;
+	border-color: #000000;
+	box-shadow: 3px 2px 0px 0px #000000;
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+	margin: 8px 8px 8px 8px;
+	--e-column-margin-right: 8px;
+	--e-column-margin-left: 8px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-133bb097
+	> .elementor-element-populated,
+.elementor-3325
+	.elementor-element.elementor-element-133bb097
+	> .elementor-element-populated
+	> .elementor-background-overlay,
+.elementor-3325
+	.elementor-element.elementor-element-133bb097
+	> .elementor-background-slideshow {
+	border-radius: 14px 14px 14px 14px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-133bb097
+	> .elementor-element-populated
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325 .elementor-element.elementor-element-7df1be22 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-7df1be22
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 40px;
+	font-weight: 200;
+}
+.elementor-3325
+	.elementor-element.elementor-element-7df1be22
+	> .elementor-widget-container {
+	margin: 37px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-24a49293 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-24a49293
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 33px;
+	font-weight: 100;
+}
+.elementor-3325
+	.elementor-element.elementor-element-63190600:not(
+		.elementor-motion-effects-element-type-background
+	),
+.elementor-3325
+	.elementor-element.elementor-element-63190600
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background-color: #fdb94e;
+}
+.elementor-3325 .elementor-element.elementor-element-63190600 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+}
+.elementor-3325
+	.elementor-element.elementor-element-63190600
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325
+	.elementor-element.elementor-element-63190600
+	> .elementor-shape-bottom
+	.elementor-shape-fill {
+	fill: #0c57e7;
+}
+.elementor-3325
+	.elementor-element.elementor-element-63190600
+	> .elementor-shape-bottom
+	svg {
+	height: 93px;
+}
+.elementor-3325 .elementor-element.elementor-element-b706735 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-b706735
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 170px;
+	font-weight: 400;
+	-webkit-text-stroke-width: 2px;
+	stroke-width: 2px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-b706735
+	> .elementor-widget-container {
+	padding: 1px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-63edff8 {
+	--spacer-size: 50px;
+}
+.elementor-3325 .elementor-element.elementor-element-fa328b6 img {
+	width: 100%;
+	border-style: solid;
+	border-color: #ffffff;
+	border-radius: 28px 28px 28px 28px;
+}
+.elementor-3325 .elementor-element.elementor-element-85fadd8 {
+	--spacer-size: 25px;
+}
+.elementor-3325 .elementor-element.elementor-element-0f54f42 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-0f54f42
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Caveat Brush", Sans-serif;
+	font-weight: 200;
+}
+.elementor-3325 .elementor-element.elementor-element-3930e339 {
+	--spacer-size: 25px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4f6fcd3:not(
+		.elementor-motion-effects-element-type-background
+	),
+.elementor-3325
+	.elementor-element.elementor-element-4f6fcd3
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background: linear-gradient(to bottom, #0b57e8, #d99d67, #e8510b, #fdb94e);
+	background-size: 100% 100%;
+
+	-webkit-animation: AnimationName 3s ease infinite;
+	-moz-animation: AnimationName 3s ease infinite;
+	animation: AnimationName 3s ease infinite;
+}
+.elementor-3325 .elementor-element.elementor-element-4f6fcd3 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+	padding: 63px 0px 0px 0px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4f6fcd3
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325 .elementor-element.elementor-element-211a552 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-211a552
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 68px;
+	font-weight: 400;
+	-webkit-text-stroke-width: 2px;
+	stroke-width: 2px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-211a552
+	> .elementor-widget-container {
+	padding: 0px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-a0447be {
+	--spacer-size: 27px;
+}
+.elementor-3325 .elementor-element.elementor-element-1ca170f img {
+	width: 100%;
+}
+.elementor-3325 .elementor-element.elementor-element-9151472 img {
+	width: 100%;
+}
+.elementor-3325 .elementor-element.elementor-element-02d6c45 img {
+	width: 100%;
+}
+.elementor-3325 .elementor-element.elementor-element-74e1595 {
+	--spacer-size: 80px;
+}
+.elementor-3325 .elementor-element.elementor-element-156876a {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-156876a
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 170px;
+	font-weight: 400;
+	-webkit-text-stroke-width: 2px;
+	stroke-width: 2px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-156876a
+	> .elementor-widget-container {
+	padding: 0px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-04bab16 {
+	--spacer-size: 67px;
+}
+.elementor-3325 .elementor-element.elementor-element-1995eaa img {
+	width: 100%;
+	border-style: solid;
+	border-width: 0px 0px 0px 0px;
+	border-color: #000000;
+	border-radius: 9px 9px 9px 9px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-toggle-title,
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-toggle-icon {
+	color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-toggle-icon
+	svg {
+	fill: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-tab-title.elementor-active
+	a,
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-tab-title.elementor-active
+	.elementor-toggle-icon {
+	color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-toggle-title {
+	font-family: "Caveat Brush", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-toggle-icon.elementor-toggle-icon-left {
+	margin-right: 40px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-toggle-icon.elementor-toggle-icon-right {
+	margin-left: 40px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	.elementor-tab-content {
+	color: #000000;
+	font-family: "Gochi Hand", Sans-serif;
+	font-size: 18px;
+	font-weight: 100;
+	line-height: 11px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-18443f6
+	> .elementor-widget-container {
+	background-color: #ffffff;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 12px 12px 12px 12px;
+	box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.99);
+}
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-toggle-title,
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-toggle-icon {
+	color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-toggle-icon
+	svg {
+	fill: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-tab-title.elementor-active
+	a,
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-tab-title.elementor-active
+	.elementor-toggle-icon {
+	color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-toggle-title {
+	font-family: "Caveat Brush", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-toggle-icon.elementor-toggle-icon-left {
+	margin-right: 40px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-toggle-icon.elementor-toggle-icon-right {
+	margin-left: 40px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	.elementor-tab-content {
+	color: #000000;
+	font-family: "Gochi Hand", Sans-serif;
+	font-size: 18px;
+	font-weight: 100;
+	line-height: 11px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5049176
+	> .elementor-widget-container {
+	background-color: #ffffff;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 12px 12px 12px 12px;
+	box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.99);
+}
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-toggle-title,
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-toggle-icon {
+	color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-toggle-icon
+	svg {
+	fill: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-tab-title.elementor-active
+	a,
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-tab-title.elementor-active
+	.elementor-toggle-icon {
+	color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-toggle-title {
+	font-family: "Caveat Brush", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-toggle-icon.elementor-toggle-icon-left {
+	margin-right: 40px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-toggle-icon.elementor-toggle-icon-right {
+	margin-left: 40px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	.elementor-tab-content {
+	color: #000000;
+	font-family: "Gochi Hand", Sans-serif;
+	font-size: 18px;
+	font-weight: 100;
+	line-height: 11px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-71bbc85
+	> .elementor-widget-container {
+	background-color: #ffffff;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 12px 12px 12px 12px;
+	box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.99);
+}
+.elementor-3325 .elementor-element.elementor-element-5afb7a2 {
+	--spacer-size: 48px;
+}
+.elementor-3325 .elementor-element.elementor-element-b325583 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-b325583
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 170px;
+	font-weight: 400;
+	-webkit-text-stroke-width: 2px;
+	stroke-width: 2px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-b325583
+	> .elementor-widget-container {
+	padding: 0px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-12ae50b {
+	--spacer-size: 39px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5b978e2
+	.elementor-icon-wrapper {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5b978e2.elementor-view-stacked
+	.elementor-icon {
+	background-color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5b978e2.elementor-view-framed
+	.elementor-icon,
+.elementor-3325
+	.elementor-element.elementor-element-5b978e2.elementor-view-default
+	.elementor-icon {
+	color: #000000;
+	border-color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5b978e2.elementor-view-framed
+	.elementor-icon,
+.elementor-3325
+	.elementor-element.elementor-element-5b978e2.elementor-view-default
+	.elementor-icon
+	svg {
+	fill: #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-5b978e2 .elementor-icon {
+	font-size: 35px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5b978e2
+	.elementor-icon
+	svg {
+	height: 35px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-5b978e2
+	> .elementor-widget-container {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 0px 0px 0px;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 3px 3px 3px 3px;
+	border-color: #000000;
+	border-radius: 42px 42px 42px 42px;
+	box-shadow: 3px 3px 0px 0px #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4d42917
+	.elementor-icon-wrapper {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4d42917.elementor-view-stacked
+	.elementor-icon {
+	background-color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4d42917.elementor-view-framed
+	.elementor-icon,
+.elementor-3325
+	.elementor-element.elementor-element-4d42917.elementor-view-default
+	.elementor-icon {
+	color: #000000;
+	border-color: #000000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4d42917.elementor-view-framed
+	.elementor-icon,
+.elementor-3325
+	.elementor-element.elementor-element-4d42917.elementor-view-default
+	.elementor-icon
+	svg {
+	fill: #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-4d42917 .elementor-icon {
+	font-size: 35px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4d42917
+	.elementor-icon
+	svg {
+	height: 35px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-4d42917
+	> .elementor-widget-container {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 0px 0px 0px;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 3px 3px 3px 3px;
+	border-color: #000000;
+	border-radius: 50px 50px 50px 50px;
+	box-shadow: 3px 3px 0px 0px #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-1b6fe48 {
+	--spacer-size: 10px;
+}
+.elementor-3325
+	.elementor-element.elementor-element-6db337a4:not(
+		.elementor-motion-effects-element-type-background
+	),
+.elementor-3325
+	.elementor-element.elementor-element-6db337a4
+	> .elementor-motion-effects-container
+	> .elementor-motion-effects-layer {
+	background-color: #fdb94e;
+}
+.elementor-3325 .elementor-element.elementor-element-6db337a4 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s,
+		box-shadow 0.3s;
+}
+.elementor-3325
+	.elementor-element.elementor-element-6db337a4
+	> .elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3325
+	.elementor-element.elementor-element-6db337a4
+	> .elementor-shape-top
+	.elementor-shape-fill {
+	fill: #27ae60;
+}
+.elementor-3325
+	.elementor-element.elementor-element-6db337a4
+	> .elementor-shape-top
+	svg {
+	width: calc(100% + 1.3px);
+	height: 70px;
+}
+.elementor-3325 .elementor-element.elementor-element-c671c66 {
+	--spacer-size: 79px;
+}
+.elementor-3325 .elementor-element.elementor-element-170c5c6 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-170c5c6
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 49px;
+	font-weight: 400;
+	-webkit-text-stroke-width: 2px;
+	stroke-width: 2px;
+	-webkit-text-stroke-color: #000;
+	stroke: #000;
+}
+.elementor-3325
+	.elementor-element.elementor-element-170c5c6
+	> .elementor-widget-container {
+	padding: 0px 0px 0px 0px;
+}
+.elementor-3325 .elementor-element.elementor-element-483523c {
+	--spacer-size: 15px;
+}
+.elementor-3325 .elementor-element.elementor-element-ce42537 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-ce42537
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Caveat Brush", Sans-serif;
+	font-weight: 200;
+}
+.elementor-3325
+	.elementor-element.elementor-element-ce42537
+	> .elementor-widget-container {
+	padding: 13px 13px 13px 13px;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #000000;
+	border-radius: 27px 27px 27px 27px;
+	box-shadow: 3px 3px 0px 0px #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-dcac2cb {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-dcac2cb
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Caveat Brush", Sans-serif;
+	font-size: 29px;
+	font-weight: 200;
+}
+.elementor-3325 .elementor-element.elementor-element-99a7f01 {
+	--spacer-size: 21px;
+}
+.elementor-3325 .elementor-element.elementor-element-2a70e1a {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-2a70e1a
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Caveat Brush", Sans-serif;
+	font-weight: 200;
+}
+.elementor-3325
+	.elementor-element.elementor-element-2a70e1a
+	> .elementor-widget-container {
+	padding: 13px 13px 13px 13px;
+	background-color: #ffb02e;
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #000000;
+	border-radius: 27px 27px 27px 27px;
+	box-shadow: 3px 3px 0px 0px #000000;
+}
+.elementor-3325 .elementor-element.elementor-element-2adace8 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-2adace8
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Caveat Brush", Sans-serif;
+	font-size: 29px;
+	font-weight: 200;
+}
+.elementor-3325 .elementor-element.elementor-element-3dff1ea {
+	--spacer-size: 71px;
+}
+.elementor-3325 .elementor-element.elementor-element-f737041 {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-f737041
+	.elementor-heading-title {
+	color: #ffffff;
+	font-family: "Cherry Bomb One", Sans-serif;
+	font-size: 40px;
+	font-weight: 100;
+}
+.elementor-3325 .elementor-element.elementor-element-26ce594 {
+	--spacer-size: 34px;
+}
+.elementor-3325 .elementor-element.elementor-element-437b14ef {
+	text-align: center;
+}
+.elementor-3325
+	.elementor-element.elementor-element-437b14ef
+	.elementor-heading-title {
+	color: #000000;
+	font-family: "Caveat Brush", Sans-serif;
+	font-weight: 400;
+}
+.elementor-3325 .elementor-element.elementor-element-7e5ab284 {
+	--spacer-size: 75px;
+}
+@media (min-width: 768px) {
+	.elementor-3325 .elementor-element.elementor-element-87dc587 {
+		width: 27.717%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-ffe9b4c {
+		width: 72.283%;
+	}
+}
+@media (max-width: 767px) {
+	.elementor-3325 .elementor-element.elementor-element-847dd4c {
+		width: 16%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-11ee13b img {
+		width: 100%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-287cee9 {
+		width: 16%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-2033155 img {
+		width: 100%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-316fbb6 {
+		width: 16%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-3604149 img {
+		width: 100%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-ec8d555 {
+		width: 16%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-4169001 img {
+		width: 100%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-509974b {
+		width: 16%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-94b406e img {
+		width: 100%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-787bd88 {
+		width: 16%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-96a9750 img {
+		width: 100%;
+	}
+	.elementor-3325 .elementor-element.elementor-element-23bad90 img {
+		width: 100%;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-23bad90
+		> .elementor-widget-container {
+		margin: 0px 0px -50px 0px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-055fd98
+		.elementor-heading-title {
+		font-size: 28px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-5a62320 {
+		--spacer-size: 1px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-05c2f20 {
+		width: 50%;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-ffec31d
+		.elementor-icon {
+		font-size: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-ffec31d
+		.elementor-icon
+		svg {
+		height: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-ffec31d
+		> .elementor-widget-container {
+		margin: 0px 0px 0px 0px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-b4362e9 {
+		width: 50%;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-54227e3
+		.elementor-icon {
+		font-size: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-54227e3
+		.elementor-icon
+		svg {
+		height: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-54227e3
+		> .elementor-widget-container {
+		margin: 0px 0px 0px 0px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-433c090 {
+		--spacer-size: 1px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-c60f298
+		.elementor-button {
+		font-size: 14px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-2c2cda98
+		.elementor-heading-title {
+		font-size: 42px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-2c2cda98
+		> .elementor-widget-container {
+		padding: 22px 0px 0px 0px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-a5e73d8 {
+		--spacer-size: 18px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-dc32dcc img {
+		width: 100%;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-dc32dcc
+		> .elementor-widget-container {
+		margin: -15px -15px -15px -15px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-7d7df0f {
+		--spacer-size: 18px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-88995c5
+		.elementor-heading-title {
+		font-size: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-88995c5
+		> .elementor-widget-container {
+		padding: 0px 0px 0px 0px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-8652eba
+		.elementor-button {
+		font-size: 17px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-4d99ab9
+		.elementor-button {
+		font-size: 25px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-1367161 {
+		--spacer-size: 2px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-12222538 {
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding: 0px 0px 0px 0px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-547d6f4c {
+		--spacer-size: 15px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-3a612b00
+		> .elementor-element-populated {
+		margin: 5px 5px 5px 5px;
+		--e-column-margin-right: 5px;
+		--e-column-margin-left: 5px;
+		padding: 10px 10px 10px 10px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-484548bc
+		> .elementor-widget-container {
+		margin: 0px 0px 0px 0px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-4f1fd7c6
+		.elementor-heading-title {
+		font-size: 28px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-4df32e62
+		> .elementor-element-populated {
+		margin: 5px 5px 5px 5px;
+		--e-column-margin-right: 5px;
+		--e-column-margin-left: 5px;
+		padding: 13px 13px 13px 13px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-56a8f2d
+		> .elementor-widget-container {
+		margin: 0px 0px 0px 0px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-7a0f2f15
+		.elementor-heading-title {
+		font-size: 28px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-133bb097
+		> .elementor-element-populated {
+		margin: 5px 5px 5px 5px;
+		--e-column-margin-right: 5px;
+		--e-column-margin-left: 5px;
+		padding: 10px 10px 10px 10px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-7df1be22
+		> .elementor-widget-container {
+		margin: -1px -1px -1px -1px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-24a49293
+		.elementor-heading-title {
+		font-size: 28px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-b706735
+		.elementor-heading-title {
+		font-size: 42px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-b706735
+		> .elementor-widget-container {
+		padding: 22px 0px 0px 0px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-63edff8 {
+		--spacer-size: 1px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-85fadd8 {
+		--spacer-size: 5px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-0f54f42
+		.elementor-heading-title {
+		font-size: 29px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-3930e339 {
+		--spacer-size: 1px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-4f6fcd3 {
+		padding: 28px 0px 0px 0px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-211a552
+		.elementor-heading-title {
+		font-size: 42px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-a0447be {
+		--spacer-size: 8px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-74e1595 {
+		--spacer-size: 8px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-156876a
+		.elementor-heading-title {
+		font-size: 42px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-04bab16 {
+		--spacer-size: 8px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-5afb7a2 {
+		--spacer-size: 33px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-b325583
+		.elementor-heading-title {
+		font-size: 42px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-12ae50b {
+		--spacer-size: 9px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-1e2de67 {
+		width: 50%;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-5b978e2
+		.elementor-icon {
+		font-size: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-5b978e2
+		.elementor-icon
+		svg {
+		height: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-5b978e2
+		> .elementor-widget-container {
+		margin: 0px 0px 0px 0px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-abfd15d {
+		width: 50%;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-4d42917
+		.elementor-icon {
+		font-size: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-4d42917
+		.elementor-icon
+		svg {
+		height: 23px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-4d42917
+		> .elementor-widget-container {
+		margin: 0px 0px 0px 0px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-c671c66 {
+		--spacer-size: 45px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-170c5c6
+		.elementor-heading-title {
+		font-size: 42px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-483523c {
+		--spacer-size: 45px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-dcac2cb
+		.elementor-heading-title {
+		font-size: 14px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-99a7f01 {
+		--spacer-size: 2px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-2adace8
+		.elementor-heading-title {
+		font-size: 14px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-3dff1ea {
+		--spacer-size: 19px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-26ce594 {
+		--spacer-size: 18px;
+	}
+	.elementor-3325
+		.elementor-element.elementor-element-437b14ef
+		.elementor-heading-title {
+		font-size: 20px;
+	}
+	.elementor-3325 .elementor-element.elementor-element-7e5ab284 {
+		--spacer-size: 17px;
+	}
+} /* Start custom CSS for heading, class: .elementor-element-2c2cda98 */ /* Outline Text Effect */
+.outline-text {
+	color: #fff; /* Set the text color */
+	font-size: 2em; /* Adjust the font size as needed */
+	font-weight: bold; /* Optional: Adjust the font weight */
+	text-shadow: -4px -1px 0 #fea85d, 1px -1px 0 #b7186e, -1px 1px 0 #b7186e,
+		1px 1px 0 #b7186e; /* Adjust the shadow offsets and color */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-dc32dcc */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-b706735 */ /* Outline Text Effect */
+.outline-text {
+	color: #fff; /* Set the text color */
+	font-size: 2em; /* Adjust the font size as needed */
+	font-weight: bold; /* Optional: Adjust the font weight */
+	text-shadow: -4px -1px 0 #fea85d, 1px -1px 0 #b7186e, -1px 1px 0 #b7186e,
+		1px 1px 0 #b7186e; /* Adjust the shadow offsets and color */
+} /* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-211a552 */ /* Outline Text Effect */
+.outline-text {
+	color: #fff; /* Set the text color */
+	font-size: 2em; /* Adjust the font size as needed */
+	font-weight: bold; /* Optional: Adjust the font weight */
+	text-shadow: -4px -1px 0 #fea85d, 1px -1px 0 #b7186e, -1px 1px 0 #b7186e,
+		1px 1px 0 #b7186e; /* Adjust the shadow offsets and color */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-1ca170f */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-ac83b81 */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-e1b57f3 */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-9151472 */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-9205522 */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-02d6c45 */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-908ae27 */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-b1d6cf3 */
+.my-custom-image {
+	transition: transform 0.3s ease, transform-origin 0.3s ease,
+		filter 0.3s ease;
+}
+
+.my-custom-image:hover {
+	transform: scale(0.95) rotate(7.5deg); /* Adjust the scaling factor and degree of tilt as needed */
+	filter: brightness(90%); /* Optional: Adjust brightness as needed */
+} /* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-156876a */ /* Outline Text Effect */
+.outline-text {
+	color: #fff; /* Set the text color */
+	font-size: 2em; /* Adjust the font size as needed */
+	font-weight: bold; /* Optional: Adjust the font weight */
+	text-shadow: -4px -1px 0 #fea85d, 1px -1px 0 #b7186e, -1px 1px 0 #b7186e,
+		1px 1px 0 #b7186e; /* Adjust the shadow offsets and color */
+} /* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-b325583 */ /* Outline Text Effect */
+.outline-text {
+	color: #fff; /* Set the text color */
+	font-size: 2em; /* Adjust the font size as needed */
+	font-weight: bold; /* Optional: Adjust the font weight */
+	text-shadow: -4px -1px 0 #fea85d, 1px -1px 0 #b7186e, -1px 1px 0 #b7186e,
+		1px 1px 0 #b7186e; /* Adjust the shadow offsets and color */
+} /* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-170c5c6 */ /* Outline Text Effect */
+.outline-text {
+	color: #fff; /* Set the text color */
+	font-size: 2em; /* Adjust the font size as needed */
+	font-weight: bold; /* Optional: Adjust the font weight */
+	text-shadow: -4px -1px 0 #fea85d, 1px -1px 0 #b7186e, -1px 1px 0 #b7186e,
+		1px 1px 0 #b7186e; /* Adjust the shadow offsets and color */
+} /* End custom CSS */
+
+/* MEME */
+.meme {
+	width: 100%;
+}
+.meme_container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 50px;
+	flex-wrap: wrap;
+}
+.meme_item {
+	width: 22%;
+}
+.meme_item img {
+	width: 100%;
+}
